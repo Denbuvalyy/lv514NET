@@ -1,0 +1,1 @@
+alert("shooth-scroll.js");
